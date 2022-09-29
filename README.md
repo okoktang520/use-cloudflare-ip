@@ -6,7 +6,14 @@
 
 具体教程可见：https://www.idleleo.com/04/5199
 
+
+opkg update
+opkg install tar
+opkg install wget
+
 cat /etc/config/passwall
+
+chmod +x cf-openwrt-auto.sh && bash cf-openwrt-auto.sh
 <br/>
 <br/>
 
