@@ -6,6 +6,7 @@
 
 具体教程可见：https://www.idleleo.com/04/5199
 
+cat /etc/config/passwall
 <br/>
 <br/>
 
